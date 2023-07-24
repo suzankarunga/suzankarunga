@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @suzankarunga
-- 👀 I’m interested in python.
-- matlab
-html
-
--...
-
+Am a passionate software developer and avid Git enthusiast! With a profound love for coding and a knack for problem-solving, I hv immersed myself in the world of version control and collaborative development through Git.
